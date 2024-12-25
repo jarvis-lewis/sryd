@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react';
-import VerticalAlignTopOutlined from '@ant-design/icons/VerticalAlignTopOutlined';
+import VerticalAlignTopOutlined from '@sryd/icons/VerticalAlignTopOutlined';
 import classNames from 'classnames';
 import CSSMotion from 'rc-motion';
 import { composeRef } from 'rc-util/lib/ref';

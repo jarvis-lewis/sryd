@@ -1,5 +1,5 @@
 import * as React from 'react';
-import type { AnyObject } from 'antd/es/_util/type';
+import type { AnyObject } from 'sryd/es/_util/type';
 
 import type {
   ColumnGroupType,

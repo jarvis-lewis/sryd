@@ -1,7 +1,7 @@
 import * as React from 'react';
-import LeftOutlined from '@ant-design/icons/LeftOutlined';
-import LoadingOutlined from '@ant-design/icons/LoadingOutlined';
-import RightOutlined from '@ant-design/icons/RightOutlined';
+import LeftOutlined from '@sryd/icons/LeftOutlined';
+import LoadingOutlined from '@sryd/icons/LoadingOutlined';
+import RightOutlined from '@sryd/icons/RightOutlined';
 
 const useColumnIcons = (prefixCls: string, rtl: boolean, expandIcon?: React.ReactNode) => {
   let mergedExpandIcon = expandIcon;

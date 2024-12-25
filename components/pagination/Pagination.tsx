@@ -1,8 +1,8 @@
 import * as React from 'react';
-import DoubleLeftOutlined from '@ant-design/icons/DoubleLeftOutlined';
-import DoubleRightOutlined from '@ant-design/icons/DoubleRightOutlined';
-import LeftOutlined from '@ant-design/icons/LeftOutlined';
-import RightOutlined from '@ant-design/icons/RightOutlined';
+import DoubleLeftOutlined from '@sryd/icons/DoubleLeftOutlined';
+import DoubleRightOutlined from '@sryd/icons/DoubleRightOutlined';
+import LeftOutlined from '@sryd/icons/LeftOutlined';
+import RightOutlined from '@sryd/icons/RightOutlined';
 import classNames from 'classnames';
 import type { PaginationLocale, PaginationProps as RcPaginationProps } from 'rc-pagination';
 import RcPagination from 'rc-pagination';

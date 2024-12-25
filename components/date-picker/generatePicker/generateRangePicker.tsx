@@ -1,8 +1,8 @@
 import * as React from 'react';
 import { forwardRef, useContext, useImperativeHandle } from 'react';
-import CalendarOutlined from '@ant-design/icons/CalendarOutlined';
-import ClockCircleOutlined from '@ant-design/icons/ClockCircleOutlined';
-import SwapRightOutlined from '@ant-design/icons/SwapRightOutlined';
+import CalendarOutlined from '@sryd/icons/CalendarOutlined';
+import ClockCircleOutlined from '@sryd/icons/ClockCircleOutlined';
+import SwapRightOutlined from '@sryd/icons/SwapRightOutlined';
 import classNames from 'classnames';
 import { RangePicker as RCRangePicker } from 'rc-picker';
 import type { PickerRef } from 'rc-picker';

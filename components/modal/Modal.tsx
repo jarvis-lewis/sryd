@@ -1,5 +1,5 @@
 import * as React from 'react';
-import CloseOutlined from '@ant-design/icons/CloseOutlined';
+import CloseOutlined from '@sryd/icons/CloseOutlined';
 import classNames from 'classnames';
 import Dialog from 'rc-dialog';
 

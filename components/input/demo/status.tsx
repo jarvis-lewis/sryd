@@ -1,5 +1,5 @@
 import React from 'react';
-import ClockCircleOutlined from '@ant-design/icons/ClockCircleOutlined';
+import ClockCircleOutlined from '@sryd/icons/ClockCircleOutlined';
 import { Input, Space } from 'sryd';
 
 const App: React.FC = () => (

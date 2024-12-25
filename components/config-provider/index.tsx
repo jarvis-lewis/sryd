@@ -1,6 +1,6 @@
 import * as React from "react";
 import { createTheme } from "@sryd/cssinjs";
-import IconContext from "@ant-design/icons/lib/components/Context";
+import IconContext from "@sryd/icons/lib/components/Context";
 import useMemo from "rc-util/lib/hooks/useMemo";
 import { merge } from "rc-util/lib/utils/set";
 

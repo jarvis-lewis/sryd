@@ -1,5 +1,5 @@
 import * as React from 'react';
-import type { ValidateStatus } from 'antd/es/form/FormItem';
+import type { ValidateStatus } from 'sryd/es/form/FormItem';
 
 import { devUseWarning } from '../../_util/warning';
 import { FormItemInputContext } from '../context';

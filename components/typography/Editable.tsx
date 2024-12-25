@@ -1,5 +1,5 @@
 import * as React from 'react';
-import EnterOutlined from '@ant-design/icons/EnterOutlined';
+import EnterOutlined from '@sryd/icons/EnterOutlined';
 import classNames from 'classnames';
 import type { TextAreaProps } from 'rc-textarea';
 import KeyCode from 'rc-util/lib/KeyCode';

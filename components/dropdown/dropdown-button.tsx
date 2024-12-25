@@ -1,5 +1,5 @@
 import * as React from 'react';
-import EllipsisOutlined from '@ant-design/icons/EllipsisOutlined';
+import EllipsisOutlined from '@sryd/icons/EllipsisOutlined';
 import classNames from 'classnames';
 
 import Button from '../button';

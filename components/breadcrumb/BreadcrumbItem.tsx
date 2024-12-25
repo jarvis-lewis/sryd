@@ -1,5 +1,5 @@
 import * as React from 'react';
-import DownOutlined from '@ant-design/icons/DownOutlined';
+import DownOutlined from '@sryd/icons/DownOutlined';
 
 import { devUseWarning } from '../_util/warning';
 import { ConfigContext } from '../config-provider';

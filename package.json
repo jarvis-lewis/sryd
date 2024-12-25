@@ -1,6 +1,6 @@
 {
   "name": "sryd",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "An enterprise-class UI design language and React components implementation",
   "license": "MIT",
   "repository": {
@@ -100,7 +100,7 @@
     "@sryd/cssinjs": "^2.0.3",
     "@sryd/cssinjs-utils": "^1.3.1",
     "@sryd/icons": "^5.5.1",
-    "@sryd/react-slick": "^1.1.3",
+    "@sryd/react-slick": "^1.1.4",
     "classnames": "^2.5.1",
     "copy-to-clipboard": "^3.3.3",
     "dayjs": "^1.11.11",

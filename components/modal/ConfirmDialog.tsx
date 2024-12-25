@@ -1,8 +1,8 @@
 import * as React from 'react';
-import CheckCircleFilled from '@ant-design/icons/CheckCircleFilled';
-import CloseCircleFilled from '@ant-design/icons/CloseCircleFilled';
-import ExclamationCircleFilled from '@ant-design/icons/ExclamationCircleFilled';
-import InfoCircleFilled from '@ant-design/icons/InfoCircleFilled';
+import CheckCircleFilled from '@sryd/icons/CheckCircleFilled';
+import CloseCircleFilled from '@sryd/icons/CloseCircleFilled';
+import ExclamationCircleFilled from '@sryd/icons/ExclamationCircleFilled';
+import InfoCircleFilled from '@sryd/icons/InfoCircleFilled';
 import classNames from 'classnames';
 
 import { CONTAINER_MAX_OFFSET } from '../_util/hooks/useZIndex';

@@ -1,8 +1,8 @@
 import * as React from 'react';
-import FileTwoTone from '@ant-design/icons/FileTwoTone';
-import LoadingOutlined from '@ant-design/icons/LoadingOutlined';
-import PaperClipOutlined from '@ant-design/icons/PaperClipOutlined';
-import PictureTwoTone from '@ant-design/icons/PictureTwoTone';
+import FileTwoTone from '@sryd/icons/FileTwoTone';
+import LoadingOutlined from '@sryd/icons/LoadingOutlined';
+import PaperClipOutlined from '@sryd/icons/PaperClipOutlined';
+import PictureTwoTone from '@sryd/icons/PictureTwoTone';
 import classNames from 'classnames';
 import type { CSSMotionListProps } from 'rc-motion';
 import CSSMotion, { CSSMotionList } from 'rc-motion';

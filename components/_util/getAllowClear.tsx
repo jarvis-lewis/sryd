@@ -1,5 +1,5 @@
 import React from 'react';
-import CloseCircleFilled from '@ant-design/icons/CloseCircleFilled';
+import CloseCircleFilled from '@sryd/icons/CloseCircleFilled';
 import type { BaseInputProps } from 'rc-input/lib/interface';
 
 export type AllowClear = BaseInputProps['allowClear'];

@@ -1,8 +1,8 @@
 import * as React from 'react';
 import { useContext, useEffect, useRef, useState } from 'react';
-import BarsOutlined from '@ant-design/icons/BarsOutlined';
-import LeftOutlined from '@ant-design/icons/LeftOutlined';
-import RightOutlined from '@ant-design/icons/RightOutlined';
+import BarsOutlined from '@sryd/icons/BarsOutlined';
+import LeftOutlined from '@sryd/icons/LeftOutlined';
+import RightOutlined from '@sryd/icons/RightOutlined';
 import classNames from 'classnames';
 import omit from 'rc-util/lib/omit';
 

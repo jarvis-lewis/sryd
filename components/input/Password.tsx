@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { useRef, useState } from 'react';
-import EyeInvisibleOutlined from '@ant-design/icons/EyeInvisibleOutlined';
-import EyeOutlined from '@ant-design/icons/EyeOutlined';
+import EyeInvisibleOutlined from '@sryd/icons/EyeInvisibleOutlined';
+import EyeOutlined from '@sryd/icons/EyeOutlined';
 import classNames from 'classnames';
 import omit from 'rc-util/lib/omit';
 import { composeRef } from 'rc-util/lib/ref';

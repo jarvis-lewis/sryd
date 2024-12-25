@@ -1,5 +1,5 @@
 import * as React from 'react';
-import DeleteOutlined from '@ant-design/icons/DeleteOutlined';
+import DeleteOutlined from '@sryd/icons/DeleteOutlined';
 import classNames from 'classnames';
 
 import type { KeyWiseTransferItem } from '.';

@@ -1,5 +1,5 @@
 import React, { useMemo, useRef, useState } from 'react';
-import DownOutlined from '@ant-design/icons/DownOutlined';
+import DownOutlined from '@sryd/icons/DownOutlined';
 import classNames from 'classnames';
 import omit from 'rc-util/lib/omit';
 

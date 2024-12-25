@@ -1,6 +1,6 @@
 import * as React from 'react';
-import CaretDownOutlined from '@ant-design/icons/CaretDownOutlined';
-import CaretUpOutlined from '@ant-design/icons/CaretUpOutlined';
+import CaretDownOutlined from '@sryd/icons/CaretDownOutlined';
+import CaretUpOutlined from '@sryd/icons/CaretUpOutlined';
 import classNames from 'classnames';
 import KeyCode from 'rc-util/lib/KeyCode';
 

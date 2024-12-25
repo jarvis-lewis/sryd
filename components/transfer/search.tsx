@@ -1,5 +1,5 @@
 import * as React from 'react';
-import SearchOutlined from '@ant-design/icons/SearchOutlined';
+import SearchOutlined from '@sryd/icons/SearchOutlined';
 
 import Input from '../input';
 

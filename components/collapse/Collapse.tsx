@@ -1,5 +1,5 @@
 import * as React from 'react';
-import RightOutlined from '@ant-design/icons/RightOutlined';
+import RightOutlined from '@sryd/icons/RightOutlined';
 import classNames from 'classnames';
 import type { CollapseProps as RcCollapseProps } from 'rc-collapse';
 import RcCollapse from 'rc-collapse';

@@ -1,7 +1,7 @@
 import * as React from 'react';
-import FileOutlined from '@ant-design/icons/FileOutlined';
-import FolderOpenOutlined from '@ant-design/icons/FolderOpenOutlined';
-import FolderOutlined from '@ant-design/icons/FolderOutlined';
+import FileOutlined from '@sryd/icons/FileOutlined';
+import FolderOpenOutlined from '@sryd/icons/FolderOpenOutlined';
+import FolderOutlined from '@sryd/icons/FolderOutlined';
 import classNames from 'classnames';
 import type RcTree from 'rc-tree';
 import type { BasicDataNode } from 'rc-tree';

@@ -1,5 +1,5 @@
 import * as React from 'react';
-import ExclamationCircleFilled from '@ant-design/icons/ExclamationCircleFilled';
+import ExclamationCircleFilled from '@sryd/icons/ExclamationCircleFilled';
 import classNames from 'classnames';
 
 import type { PopconfirmProps } from '.';

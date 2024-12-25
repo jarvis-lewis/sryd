@@ -1,7 +1,7 @@
 import * as React from 'react';
-import CloseOutlined from '@ant-design/icons/CloseOutlined';
-import EllipsisOutlined from '@ant-design/icons/EllipsisOutlined';
-import PlusOutlined from '@ant-design/icons/PlusOutlined';
+import CloseOutlined from '@sryd/icons/CloseOutlined';
+import EllipsisOutlined from '@sryd/icons/EllipsisOutlined';
+import PlusOutlined from '@sryd/icons/PlusOutlined';
 import classNames from 'classnames';
 import type { TabsProps as RcTabsProps } from 'rc-tabs';
 import RcTabs from 'rc-tabs';

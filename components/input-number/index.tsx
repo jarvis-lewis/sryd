@@ -1,6 +1,6 @@
 import * as React from 'react';
-import DownOutlined from '@ant-design/icons/DownOutlined';
-import UpOutlined from '@ant-design/icons/UpOutlined';
+import DownOutlined from '@sryd/icons/DownOutlined';
+import UpOutlined from '@sryd/icons/UpOutlined';
 import classNames from 'classnames';
 import type { InputNumberProps as RcInputNumberProps, ValueType } from 'rc-input-number';
 import RcInputNumber from 'rc-input-number';

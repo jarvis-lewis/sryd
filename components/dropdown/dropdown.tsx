@@ -1,5 +1,5 @@
 import * as React from 'react';
-import RightOutlined from '@ant-design/icons/RightOutlined';
+import RightOutlined from '@sryd/icons/RightOutlined';
 import type { AlignType } from '@rc-component/trigger';
 import classNames from 'classnames';
 import RcDropdown from 'rc-dropdown';

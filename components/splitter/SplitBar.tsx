@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import DownOutlined from '@ant-design/icons/DownOutlined';
-import LeftOutlined from '@ant-design/icons/LeftOutlined';
-import RightOutlined from '@ant-design/icons/RightOutlined';
-import UpOutlined from '@ant-design/icons/UpOutlined';
+import DownOutlined from '@sryd/icons/DownOutlined';
+import LeftOutlined from '@sryd/icons/LeftOutlined';
+import RightOutlined from '@sryd/icons/RightOutlined';
+import UpOutlined from '@sryd/icons/UpOutlined';
 import classNames from 'classnames';
 
 export interface SplitBarProps {

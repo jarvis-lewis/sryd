@@ -1,6 +1,6 @@
 import * as React from 'react';
-import FilterFilled from '@ant-design/icons/FilterFilled';
-import type { AnyObject } from 'antd/es/_util/type';
+import FilterFilled from '@sryd/icons/FilterFilled';
+import type { AnyObject } from 'sryd/es/_util/type';
 import classNames from 'classnames';
 import type { FieldDataNode } from 'rc-tree';
 import isEqual from 'rc-util/lib/isEqual';

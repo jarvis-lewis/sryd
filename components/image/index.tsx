@@ -1,5 +1,5 @@
 import * as React from 'react';
-import EyeOutlined from '@ant-design/icons/EyeOutlined';
+import EyeOutlined from '@sryd/icons/EyeOutlined';
 import classNames from 'classnames';
 import RcImage from 'rc-image';
 import type { ImageProps } from 'rc-image';

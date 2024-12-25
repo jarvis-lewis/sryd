@@ -1,6 +1,6 @@
 import type { ReactNode } from 'react';
 import React from 'react';
-import CloseOutlined from '@ant-design/icons/CloseOutlined';
+import CloseOutlined from '@sryd/icons/CloseOutlined';
 import type { DialogProps } from 'rc-dialog';
 import pickAttrs from 'rc-util/lib/pickAttrs';
 

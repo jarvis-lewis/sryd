@@ -1,11 +1,11 @@
 import type { ReactNode } from 'react';
 import * as React from 'react';
-import CheckOutlined from '@ant-design/icons/CheckOutlined';
-import CloseCircleFilled from '@ant-design/icons/CloseCircleFilled';
-import CloseOutlined from '@ant-design/icons/CloseOutlined';
-import DownOutlined from '@ant-design/icons/DownOutlined';
-import LoadingOutlined from '@ant-design/icons/LoadingOutlined';
-import SearchOutlined from '@ant-design/icons/SearchOutlined';
+import CheckOutlined from '@sryd/icons/CheckOutlined';
+import CloseCircleFilled from '@sryd/icons/CloseCircleFilled';
+import CloseOutlined from '@sryd/icons/CloseOutlined';
+import DownOutlined from '@sryd/icons/DownOutlined';
+import LoadingOutlined from '@sryd/icons/LoadingOutlined';
+import SearchOutlined from '@sryd/icons/SearchOutlined';
 
 import { devUseWarning } from '../_util/warning';
 

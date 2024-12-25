@@ -35,7 +35,7 @@ import type { TransferProps } from '../transfer';
 import type { TreeSelectProps } from '../tree-select';
 import type { RenderEmptyHandler } from './defaultRenderEmpty';
 
-export const defaultPrefixCls = 'ant';
+export const defaultPrefixCls = 'sry';
 export const defaultIconPrefixCls = 'anticon';
 
 export interface Theme {

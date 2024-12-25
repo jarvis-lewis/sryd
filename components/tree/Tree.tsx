@@ -1,6 +1,6 @@
 import type { Component } from 'react';
 import React from 'react';
-import HolderOutlined from '@ant-design/icons/HolderOutlined';
+import HolderOutlined from '@sryd/icons/HolderOutlined';
 import classNames from 'classnames';
 import type { CSSMotionProps } from 'rc-motion';
 import type { BasicDataNode, TreeProps as RcTreeProps } from 'rc-tree';

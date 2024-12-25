@@ -1,8 +1,8 @@
 import * as React from 'react';
-import CheckCircleFilled from '@ant-design/icons/CheckCircleFilled';
-import CloseCircleFilled from '@ant-design/icons/CloseCircleFilled';
-import ExclamationCircleFilled from '@ant-design/icons/ExclamationCircleFilled';
-import WarningFilled from '@ant-design/icons/WarningFilled';
+import CheckCircleFilled from '@sryd/icons/CheckCircleFilled';
+import CloseCircleFilled from '@sryd/icons/CloseCircleFilled';
+import ExclamationCircleFilled from '@sryd/icons/ExclamationCircleFilled';
+import WarningFilled from '@sryd/icons/WarningFilled';
 import classNames from 'classnames';
 
 import { devUseWarning } from '../_util/warning';
